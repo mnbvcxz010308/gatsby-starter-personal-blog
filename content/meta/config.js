@@ -2,9 +2,9 @@ const colors = require("../../src/styles/colors");
 
 module.exports = {
   siteTitle: "Vinz", // <title>
-  shortSiteTitle: "Vinz", // <title> ending for posts and pages
+  shortSiteTitle: "Vinz Fitness", // <title> ending for posts and pages
   siteDescription: "Vinz Fitness Club.",
-  siteUrl: "",
+  siteUrl: "https://dazzling-davinci-22f9a7.netlify.com",
   pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
